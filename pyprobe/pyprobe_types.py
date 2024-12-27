@@ -17,3 +17,4 @@ PyProBEDataType = Union[PyProBERawDataType, Result]
 """Type alias for data in PyProbe."""
 ExperimentOrCycleType = Union[Experiment, Cycle]
 """Type alias for an experiment or cycle."""
+bj
